@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/NanumSquareNeo-Bold.ttf",
+      "sha1": "cd9e58031c41271195ad793ae6443f7ee7e9f1c1"
+    },
+    {
+      "path": "assets/fonts/NanumSquareNeo-ExtraBold.ttf",
+      "sha1": "578941cfc4bf2ad7a06922b8bf16ca25fdb1e959"
+    },
+    {
+      "path": "assets/fonts/NanumSquareNeo-Heavy.ttf",
+      "sha1": "55ed11e0bfa2165291ffcfdffb3d9ce17d50e3db"
+    },
+    {
+      "path": "assets/fonts/NanumSquareNeo-Light.ttf",
+      "sha1": "75613883b6ec50b2338881b5f4485d0f41d0b87e"
+    },
+    {
+      "path": "assets/fonts/NanumSquareNeo-Regular.ttf",
+      "sha1": "71fe16804bfb047541786372fb85e7c0d5bc210c"
+    },
+    {
+      "path": "assets/fonts/NanumSquareNeo-Variable.ttf",
+      "sha1": "a478c75c20d5b64e65136142a07f516103530128"
+    },
+    {
+      "path": "assets/fonts/NanumSquareNeoOTF-Bd.otf",
+      "sha1": "43addb3b33278f6c3a9e85d169dd946542fa1431"
+    },
+    {
+      "path": "assets/fonts/NanumSquareNeoOTF-Eb.otf",
+      "sha1": "2ec7bcab1d48cf48f25dd1c131cf7e5b9ed0f140"
+    },
+    {
+      "path": "assets/fonts/NanumSquareNeoOTF-Hv.otf",
+      "sha1": "5e7399fbb3450f7d045acb6167f72be4692b584d"
+    },
+    {
+      "path": "assets/fonts/NanumSquareNeoOTF-Lt.otf",
+      "sha1": "8ebad80b4e127f63cf1f30b0bf89a2e483ef27fe"
+    },
+    {
+      "path": "assets/fonts/NanumSquareNeoOTF-Rg.otf",
+      "sha1": "ba6dc93a1f184fb80a6f39dc1ef8b7b586cc20f4"
+    }
+  ]
+}
